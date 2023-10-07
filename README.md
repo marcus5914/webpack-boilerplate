@@ -1,3 +1,6 @@
+⚠️ Deprecation Notice ⚠️
+-------------------------
+Please fork it to continue development.
 
 # Webpack Boilerplate
 
